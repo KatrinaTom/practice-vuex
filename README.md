@@ -58,7 +58,20 @@ The above image now has a counter. The button does nothing... yet.
 
 <img src="images/addsOne.png" width=500 />
 
-## Images / Screenshots 
+## Mutations in Vuex
+
+Mutations takes an object and can define the methods. 
+
+<img src="images/mutations.png" width=500 />
+
+* add mutations to the main.js file. From this one file, you can change the state across the app in multiple locations. 
+
+* can have multiple mutations for your app. 
+
+* to use the mutation, add it to the methods using this.$store.commit() method.
+Inside the commit method use the name of your mutation as a string. In this case the name is 'increment'
+
+<img src="images/updateMutation.png" width=500 />
 
 
 ## Resources
