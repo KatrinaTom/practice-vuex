@@ -73,6 +73,10 @@ Inside the commit method use the name of your mutation as a string. In this case
 
 <img src="images/updateMutation.png" width=500 />
 
+The logic now has update two counter. Button name reflects this. Using a mutation across the two different button components. 
+
+<img src="images/addTwo.png" width=500 />
+
 
 ## Resources
 
