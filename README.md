@@ -35,10 +35,22 @@ ____
 
 ``npm run serve``
 
+``npm install --save vuex``
 ____
 
 ## Learnings 
 
+* main.js import createStore and initialise Store
+
+<img src="images/createStore.png" width=500 />
+
+* add store to App.vue - format is used as $store.state 
+
+<img src="images/store.state.counter.png" width=500 />
+
+<img src="images/counter1.png" with=500 />
+
+The above image now has a counter. The button does nothing... yet. 
 
 
 ## Images / Screenshots 
