@@ -52,6 +52,11 @@ ____
 
 The above image now has a counter. The button does nothing... yet. 
 
+* added methods, computer to increment the counter. 
+
+<img src="images/counterButton.png" width=500 />
+
+<img src="images/addsOne.png" width=500 />
 
 ## Images / Screenshots 
 
