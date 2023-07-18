@@ -77,6 +77,17 @@ The logic now has update two counter. Button name reflects this. Using a mutatio
 
 <img src="images/addTwo.png" width=500 />
 
+Added Auth
+
+<img src="images/auth.png" width=500 />
+
+Completed exercise
+
+<img src="images/final.png" width=500 />
+
+* additional component - UserAuth.vue
+* store folder, includes modules and counter  
+
 
 ## Resources
 
